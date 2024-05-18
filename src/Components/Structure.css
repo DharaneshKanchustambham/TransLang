@@ -1,0 +1,28 @@
+@media(min-width :720px){
+.case{
+    background-color: transparent;
+    margin-left:0%;
+    padding-bottom:-40%;
+    margin-bottom: 0%;
+    width:100%;
+    height:50%;
+    }
+    .hell{
+        background-color:  transparent;
+        margin:0%;
+    }
+}
+/* for mobiles */
+
+@media (max-width:819px) {
+    .case{
+            background-color: transparent;
+            margin-left:0%;
+            padding-left:2%;
+            width:100%;
+            height:100%;
+        }
+        .hell{
+            margin:auto -33%;
+        }
+    }
